@@ -1,0 +1,12 @@
+git clone "Lien"
+
+git add" Ajouter quelque chose"
+
+git commit -m "Comment"
+
+git push " Envoyer" 
+
+
+
+
+
